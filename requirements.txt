@@ -1,0 +1,4 @@
+google-auth
+google-api-python-client
+google-adk
+python-dotenv
