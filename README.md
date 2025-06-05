@@ -55,7 +55,7 @@ gcloud auth application-default login
     GOOGLE_CLOUD_LOCATION=<your_google_cloud_location>
     GOOGLE_GENAI_USE_VERTEXAI="True"
     AGENT_NAME="travel_planner"
-    MODEL_ID="gemini-1.0-pro" # Or your preferred model, e.g., gemini-1.5-flash
+    MODEL_ID="gemini-2.0-flash" # Or your preferred model, e.g., gemini-1.5-flash
     SHEETS_SERVICE_ACCOUNT_KEY_PATH="sa_sheets.json"
     USER_EMAIL_TO_SHARE_WITH="<your_email_address_to_share_files_with>"
     ```
