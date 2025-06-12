@@ -13,6 +13,11 @@ Grant the following IAM Roles to the User or Service Account running the ADK Age
     *   In the Google Cloud console, navigate to Vertex AI by searching for it at the top of the console.
     *   Click **Enable all recommended APIs**.
 
+2. Enable Workspace APIs
+    * Google Sheets
+    * Google Drive
+    * Google Docs
+
 ### Authenticate
 Authenticate using the command below:
 ```bash
